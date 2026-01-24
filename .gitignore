@@ -1,0 +1,5 @@
+desktop.ini
+**/desktop.ini
+Thumbs.db
+**/__pycache__/
+**/.vs/
